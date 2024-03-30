@@ -46,6 +46,7 @@
         app:layout_constraintEnd_toEndOf="parent" />
 
     <TextView
+        android:id="@+id/hasilnya"
         android:layout_width="232dp"
         android:layout_height="53dp"
         android:layout_marginBottom="32dp"
