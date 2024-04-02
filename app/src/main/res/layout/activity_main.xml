@@ -20,7 +20,7 @@
         android:id="@+id/BottomNavigationView"
         android:layout_width="match_parent"
         android:layout_height="70dp"
-        android:background="#074042"
+        android:background="#58A399"
         app:layout_constraintBottom_toBottomOf="parent"
         app:menu="@menu/menu"/>
 
